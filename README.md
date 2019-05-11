@@ -6,4 +6,4 @@
 Ссылка на нормальный рендер ноутбука:
 https://nbviewer.jupyter.org/github/danielgafni/OMM_Task_1/blob/master/Transport_Equation.ipynb
 
-Присутствует также .py скрипт для тех, у кого нет Jupyter'а.
+Присутствует также .py скрипт для тех, у кого нет Jupyter'а, но я не ручаюсь за отображение визуализаций (точнее, они не отобразятся).
